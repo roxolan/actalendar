@@ -1,0 +1,19 @@
+{
+  "name": "actalendar",
+  "version": "0.0.1",
+  "description": "ReactJS components and assemblies for a calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roxolan/actalendar.git"
+  },
+  "author": "Victor Kotusenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roxolan/actalendar/issues"
+  },
+  "homepage": "https://github.com/roxolan/actalendar#readme"
+}
